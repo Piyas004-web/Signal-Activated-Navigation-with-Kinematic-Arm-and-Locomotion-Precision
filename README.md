@@ -1,0 +1,2 @@
+# Signal-Activated-Navigation-with-Kinematic-Arm-and-Locomotion-Precision
+About S.A.N.K.A.L.P. is a Bluetooth-controlled robotic system featuring precise navigation and a kinematic arm. Powered by an ESP32 and an Arduino UNO, the robot integrates dual-motor drive, stepper arm control, and a servo for versatile manipulation. This project uses EEPROM for persistent speed and servo position, smooth sinusoidal motion .
